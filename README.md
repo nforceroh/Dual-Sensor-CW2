@@ -2,10 +2,10 @@
 
 BOM
 ```
-a 6x3mm magnet at bottom for ercf
-a 6x2mm magnet at top for runout
-M3 DIN125 McMaster-Carr 91455A330
-A3144E hall effects
+a 6x3mm magnet at bottom for ercf https://www.amazon.com/gp/product/B07KZQGWNN
+a 6x2mm magnet at top for runout https://www.amazon.com/gp/product/B07KJ9H31P
+M3 DIN125 McMaster-Carr 91455A330 https://www.mcmaster.com/91455A330/
+A3144E hall effects https://www.amazon.com/Gikfun-AH3144E-Magnetic-Detector-Arduino/dp/B07QS6PN3B
 ```
 
 Demo
